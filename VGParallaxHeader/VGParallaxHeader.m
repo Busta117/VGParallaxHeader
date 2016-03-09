@@ -5,7 +5,7 @@
 //  Copyright (c) 2013 VG. All rights reserved.
 //
 
-#import "UIScrollView+VGParallaxHeader.h"
+#import "VGParallaxHeader.h"
 
 #import <objc/runtime.h>
 #import <QuartzCore/QuartzCore.h>
